@@ -119,3 +119,4 @@
 /home/fanduill/projects/entity-framework-uppgift/obj/Debug/net8.0/entity-framework-uppgift.pdb
 /home/fanduill/projects/entity-framework-uppgift/obj/Debug/net8.0/entity-framework-uppgift.genruntimeconfig.cache
 /home/fanduill/projects/entity-framework-uppgift/obj/Debug/net8.0/ref/entity-framework-uppgift.dll
+/home/fanduill/projects/entity-framework-uppgift/obj/Debug/net8.0/entity-framework-uppgift.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("entity-framework-uppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca1bb3f6ad7c0ef979c4bbb35eb4fd889e0201e")]
 [assembly: System.Reflection.AssemblyProductAttribute("entity-framework-uppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("entity-framework-uppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
